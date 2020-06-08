@@ -17,4 +17,4 @@ Developed by Sayan and Sohil Bhatia for the 2020 Hack the NorthEast!
 
 **LocustLocater App - Sign Up for Text Notifications**
 
-![alt text]LocustLocater Images/Screen Shot 2020-06-07 at 7.53.59 PM.png
+![alt text](https://github.com/sohilbhatia/LocustLocator/blob/master/LocustLocater%20Images/Screen%20Shot%202020-06-07%20at%207.53.59%20PM.png)
