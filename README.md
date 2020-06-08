@@ -7,7 +7,7 @@ Developed by Sayan and Sohil Bhatia for the 2020 Hack the NorthEast!
 
 1. Pandas (pip install pandas)
 2. firebase_admin - db, credentials (pip install firebase_admin)
-3. Twillio - SMS Client
+3. Twilio - SMS Client
 4. math - radians, sin, cos, asin, sqrt (pre-installed)
 
 **Swift Frameworks and SDKs**
