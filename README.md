@@ -1,2 +1,2 @@
 # LocustLocator
-Locust Locator 
+Locust Locater 
