@@ -1,5 +1,5 @@
 # LocustLocater
-Locust Locater 
+Locust Locater - an app to detect and predict the rise of locusts in rural farming areas of Asia
 
 Developed by Sayan and Sohil Bhatia for the 2020 Hack the NorthEast!
 
